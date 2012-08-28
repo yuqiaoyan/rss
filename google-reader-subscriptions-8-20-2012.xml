@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+    <head>
+        <title>mugoi subscriptions in Google Reader</title>
+    </head>
+    <body>
+        <outline text="Data Insight &amp; Coverage on O'Reilly Radar"
+            title="Data Insight &amp; Coverage on O'Reilly Radar"
+            type="rss"
+            xmlUrl="http://feeds.feedburner.com/oreilly/radar/data" htmlUrl="http://radar.oreilly.com/data#comments"/>
+        <outline text="hackNY" title="hackNY" type="rss"
+            xmlUrl="http://hackny.org/a/feed/" htmlUrl="http://hackny.org/a"/>
+        <outline text="Steve Blank" title="Steve Blank" type="rss"
+            xmlUrl="http://steveblank.com/feed/" htmlUrl="http://steveblank.com"/>
+        <outline text="The Becker-Posner Blog"
+            title="The Becker-Posner Blog" type="rss"
+            xmlUrl="http://feeds.feedburner.com/becker-posner" htmlUrl="http://www.becker-posner-blog.com/"/>
+        <outline title="ZDance" text="ZDance">
+            <outline text="Dance Advantage" title="Dance Advantage"
+                type="rss" xmlUrl="http://danceadvantage.net/feed/" htmlUrl="http://danceadvantage.net"/>
+        </outline>
+        <outline title="Tech" text="Tech">
+            <outline text="A List Apart" title="A List Apart" type="rss"
+                xmlUrl="http://www.alistapart.com/site/rss" htmlUrl="http://www.alistapart.com/articles/"/>
+            <outline text="A VC" title="A VC" type="rss"
+                xmlUrl="http://feeds.feedburner.com/avc" htmlUrl="http://www.avc.com/a_vc/"/>
+            <outline text="ben's blog" title="ben's blog" type="rss"
+                xmlUrl="http://feeds.feedburner.com/bhorowitz" htmlUrl="http://bhorowitz.com"/>
+            <outline text="Coding Horror" title="Coding Horror"
+                type="rss"
+                xmlUrl="http://feeds.feedburner.com/codinghorror/" htmlUrl="http://www.codinghorror.com/blog/"/>
+            <outline
+                text="FastCompany.com - Where ideas and people meet | Fast Company"
+                title="FastCompany.com - Where ideas and people meet | Fast Company"
+                type="rss" xmlUrl="http://www.fastcompany.com/rss.xml" htmlUrl="http://www.fastcompany.com"/>
+            <outline
+                text="Forbes - Entrepreneurs Information and Entrepreneurs News ..."
+                title="Forbes - Entrepreneurs Information and Entrepreneurs News ..."
+                type="rss"
+                xmlUrl="http://www.forbes.com/entrepreneurs/feed/" htmlUrl="http://www.forbes.com/entrepreneurs/feed"/>
+            <outline text="Founders at Work - Blog"
+                title="Founders at Work - Blog" type="rss"
+                xmlUrl="http://www.foundersatwork.com/1/feed" htmlUrl="http://www.foundersatwork.com/blog.html"/>
+            <outline
+                text="Geek to Live: Automatically back up your hard drive - Lifehacker"
+                title="Geek to Live: Automatically back up your hard drive - Lifehacker"
+                type="rss"
+                xmlUrl="http://feeds.gawker.com/lifehacker/full" htmlUrl="http://lifehacker.com"/>
+            <outline text="hilarymason.com" title="hilarymason.com"
+                type="rss" xmlUrl="http://www.hilarymason.com/feed/" htmlUrl="http://www.hilarymason.com"/>
+            <outline text="IEBlog" title="IEBlog" type="rss"
+                xmlUrl="http://blogs.msdn.com/b/ie/rss.aspx" htmlUrl="http://blogs.msdn.com/b/ie/"/>
+            <outline text="Information Arbitrage"
+                title="Information Arbitrage" type="rss"
+                xmlUrl="http://informationarbitrage.com/rss" htmlUrl="http://informationarbitrage.com/"/>
+            <outline text="Smashing Coding - Smashing Magazine"
+                title="Smashing Coding - Smashing Magazine" type="rss"
+                xmlUrl="http://rss1.smashingmagazine.com/feed/" htmlUrl="http://www.smashingmagazine.com/"/>
+            <outline text="SocialFlow Blog" title="SocialFlow Blog"
+                type="rss" xmlUrl="http://blog.socialflow.com/feed" htmlUrl="http://blog.socialflow.com"/>
+            <outline
+                text="Technology Review: The Authority on the Future of Technology"
+                title="Technology Review: The Authority on the Future of Technology"
+                type="rss"
+                xmlUrl="http://www.technologyreview.com/rss/rss.aspx" htmlUrl="http://www.technologyreview.com/"/>
+            <outline text="xkcd: University Website"
+                title="xkcd: University Website" type="rss"
+                xmlUrl="http://xkcd.com/atom.xml" htmlUrl="http://xkcd.com/"/>
+            <outline text="Zero Intelligence Agents - Drew Conway"
+                title="Zero Intelligence Agents - Drew Conway"
+                type="rss"
+                xmlUrl="http://www.drewconway.com/zia/?feed=rss2" htmlUrl="http://www.drewconway.com/zia"/>
+        </outline>
+        <outline title="Always" text="Always">
+            <outline text="A List Apart" title="A List Apart" type="rss"
+                xmlUrl="http://www.alistapart.com/site/rss" htmlUrl="http://www.alistapart.com/articles/"/>
+            <outline text="Hacker News" title="Hacker News" type="rss"
+                xmlUrl="http://news.ycombinator.com/rss" htmlUrl="http://news.ycombinator.com/"/>
+            <outline text="Information Arbitrage"
+                title="Information Arbitrage" type="rss"
+                xmlUrl="http://informationarbitrage.com/rss" htmlUrl="http://informationarbitrage.com/"/>
+            <outline text="TechCrunch" title="TechCrunch" type="rss"
+                xmlUrl="http://feedproxy.google.com/TechCrunch" htmlUrl="http://techcrunch.com"/>
+            <outline text="Zero Intelligence Agents - Drew Conway"
+                title="Zero Intelligence Agents - Drew Conway"
+                type="rss"
+                xmlUrl="http://www.drewconway.com/zia/?feed=rss2" htmlUrl="http://www.drewconway.com/zia"/>
+        </outline>
+        <outline title="Social" text="Social">
+            <outline text="SocialFlow Blog" title="SocialFlow Blog"
+                type="rss" xmlUrl="http://blog.socialflow.com/feed" htmlUrl="http://blog.socialflow.com"/>
+            <outline text="The @KISSmetrics Marketing Blog"
+                title="The @KISSmetrics Marketing Blog" type="rss"
+                xmlUrl="http://feeds.feedburner.com/KISSmetrics" htmlUrl="http://blog.kissmetrics.com"/>
+        </outline>
+    </body>
+</opml>

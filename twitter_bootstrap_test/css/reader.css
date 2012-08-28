@@ -1,0 +1,19 @@
+/* 
+    Document   : reader
+    Created on : Aug 25, 2012, 9:30:06 AM
+    Author     : boyu
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+/* 
+   TODO customize this sample style
+   Syntax recommendation http://www.w3.org/TR/REC-CSS2/
+*/
+
+.entry-row { 
+    display: block;
+    border: 2px solid;
+}
+
+
